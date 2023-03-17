@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frontend Web developer
 - 👀 I’m interested in ... something interesting)
-- 🌱 I’m currently improving my skills in JavaScript + React
+- 🌱 I’m currently working on WordPress themes
 - 💞️ I’m looking to collaborate in New projects
 - 📫 How to reach me nk44@ukr.net
 
